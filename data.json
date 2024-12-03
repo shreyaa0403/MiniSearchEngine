@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Learning Node.js",
+    "content": "Node.js is a JavaScript runtime for building server-side applications.",
+    "tags": [
+      "Node.js",
+      "backend",
+      "JavaScript"
+    ],
+    "createdAt": "2024-12-03T04:11:20.391Z"
+  },
+  {
+    "id": 2,
+    "title": "Learning Node.js",
+    "content": "Node.js is a powerful backend tool.",
+    "tags": [
+      "Node.js",
+      "backend",
+      "JavaScript"
+    ],
+    "createdAt": "2024-12-03T04:33:44.895Z"
+  },
+  {
+    "id": 3,
+    "title": "Understanding the Basics of JavaScript",
+    "content": "JavaScript is a versatile programming language widely used for web development. It allows developers to create interactive websites and dynamic user interfaces. Key concepts include variables, functions, loops, and event handling, which form the foundation of any JavaScript application.",
+    "tags": [
+      "JavaScript",
+      "programming",
+      "web development"
+    ],
+    "createdAt": "2024-12-03T04:44:30.582Z"
+  }
+]
